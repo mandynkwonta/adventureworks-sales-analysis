@@ -23,6 +23,6 @@ This project analyzes sales data from AdventureWorks to uncover insights into re
 
 ### 📷 Dashboard Preview
 
-![Dashboard](Screenshot 2026-06-20 211935.png)
+![Dashboard](excel-dashboard.png)
 
 (Add your screenshots here)
